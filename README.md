@@ -9,7 +9,7 @@
 
 ![railgun](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/5115/NEW2-railgun-rth-app.png)
 
-- [railgun.rth.app | 一个镜像站](https://railgun.rth.app/) | 仓库：[YanDao0313/railgun.rth.app](https://github.com/YanDao0313/railgun.rth.app)
+- [railgun.rth.app - 一个镜像站](https://railgun.rth.app/) | 仓库：[YanDao0313/railgun.rth.app](https://github.com/YanDao0313/railgun.rth.app)
 
 ![陈睿.mp4](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/5115/NEW-eat-uncle-chen.png)
 
