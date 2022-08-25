@@ -11,9 +11,9 @@
 
 - [railgun.rth.app - 一个镜像站](https://railgun.rth.app/) | 仓库：[YanDao0313/railgun.rth.app](https://github.com/YanDao0313/railgun.rth.app)
 
-![陈睿.mp4](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/5115/NEW-eat-uncle-chen.png)
+![SAKANA+ACTION=?](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/5115/eat-sakana-ction-main.png)
 
-- [蒙古上单.cn](https://xn--fhqw2khm122n.cn/) | 仓库：[YanDao0313/EatUncleChen](https://github.com/YanDao0313/EatUncleChen) | 已归档，侵删
+- [sakana.蒙古上单.cn](https://sakana.xn--fhqw2khm122n.cn/) | 仓库：[YanDao0313/EatSakana-ction](https://github.com/YanDao0313/EatSakana-ction)
 
 <!---
 YanDao0313/YanDao0313 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
