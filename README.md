@@ -7,6 +7,10 @@
 
 ## 个人精选项目
 
+![blog](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/5115/profile-daoblog-github.png)
+
+- [daoblog.top - 我的个人博客](https://www.daoblog.top/) | 仓库：[YandaoGroup/daoblog.top](https://github.com/YandaoGroup/daoblog.top)
+
 ![railgun](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/5115/NEW2-railgun-rth-app.png)
 
 - [railgun.rth.app - 一个镜像站](https://railgun.rth.app/) | 仓库：[YanDao0313/railgun.rth.app](https://github.com/YanDao0313/railgun.rth.app)
