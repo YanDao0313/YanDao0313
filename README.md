@@ -17,7 +17,7 @@
 
 ![railgun](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/5115/NEW2-railgun-rth-app.png)
 
-- [railgun.rth.app](https://railgun.rth.app/) | Repo 仓库：[YanDao0313/railgun.rth.app](https://github.com/YanDao0313/railgun.rth.app) |  ![website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fmisaka-mikoto.jp)
+- [超电磁炮.com](https://xn--spxn0h3rdr13a.com/) | Repo 仓库：[YanDao0313/railgun-website](https://github.com/YanDao0313/railgun-website) |  ![website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fmisaka-mikoto.jp)
 
 ![叔叔我呀，是真的___](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/5115/NEW-eat-uncle-chen.png)
 
