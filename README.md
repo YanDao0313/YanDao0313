@@ -15,7 +15,7 @@
 
 - [Sakana Music Player](https://sakana-music-player.vercel.app/) | Repo 仓库：[YanDao0313/SakanaMusicPlayer](https://github.com/YanDao0313/SakanaMusicPlayer) |  ![website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fsakana-music-player.vercel.app)
 
-![railgun](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/5115/NEW2-railgun-rth-app.png)
+![railgun-new](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/5115/20221217.png)
 
 - [超电磁炮.com](https://xn--spxn0h3rdr13a.com/) | Repo 仓库：[YanDao0313/railgun-website](https://github.com/YanDao0313/railgun-website) |  ![website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fmisaka-mikoto.jp)
 
