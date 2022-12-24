@@ -5,6 +5,8 @@
 - 🌱 I’m a middle school student in [PRC](https://www.gov.cn) | 14岁，逝学生，更逝快乐初三牲
 - 📫 How to reach me: [Click Here to Email Me](mailto:yandao0313@gmail.com) | 可发邮件[到此](mailto:yandao0313@gmail.com)来联系我~
 
+[![YanDao0313's GitHub stats](https://github-readme-stats.vercel.app/api?username=YanDao0313)](https://github.com/YanDao0313)
+
 ## 🌟 个人精选项目
 
 ![blog](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/5115/profile-daoblog-github.png)
