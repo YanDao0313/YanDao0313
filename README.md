@@ -1,11 +1,14 @@
 ## 👨‍💻 简要介绍
 
 - 👋 Hi, I’m @YanDao0313 | (｡･∀･)ﾉﾞ 氦，我是颜导~
-- 👀 I’m interested in many projects | 成分复杂...
-- 🌱 I’m a middle school student in [PRC](https://www.gov.cn) | 14岁，逝学生，更逝快乐初三牲
+- 👀 I’m interested in many projects | 探索中，成分复杂...
+- 🌱 I’m a middle school student in [PRC](https://www.gov.cn) | 15岁，逝学生，更逝快乐初三牲
 - 📫 How to reach me: [Click Here to Email Me](mailto:yandao0313@gmail.com) | 可发邮件[到此](mailto:yandao0313@gmail.com)来联系我~
 
-[![YanDao0313's GitHub stats](https://github-readme-stats.vercel.app/api?username=YanDao0313)](https://github.com/YanDao0313)
+[![YanDao0313's GitHub stats](https://github-readme-stats.vercel.app/api?username=YanDao0313)](https://yandao.is-a.dev/)
+
+> For Students Pack Verification, please check the picture below.  
+> [![The English Speech Contest Certificate issued by the Sichuan Institute of Education Sciences](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/5115/202301111241365.jpg)](http://cert.ezcsoft.com/CertView.html?CertSN=AD0FBCB1-B976-468A-AFBF-1FB9F7810DC4&OrganSN=237CA873-8BB2-453E-900A-87BF324D5F75&XType=1)
 
 ## 🌟 个人精选项目
 
