@@ -5,10 +5,11 @@
 - 🌱 I’m a middle school student in [PRC](https://www.gov.cn) | 15岁，逝学生，更逝快乐初三牲
 - 📫 How to reach me: [Click Here to Email Me](mailto:yandao0313@gmail.com) | 可发邮件[到此](mailto:yandao0313@gmail.com)来联系我~
 
-[![YanDao0313's GitHub stats](https://github-readme-stats.vercel.app/api?username=YanDao0313)](https://yandao.is-a.dev/)
+![img](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/5115/202301120936689.png)
 
-> For Students Pack Verification, please check the picture below.  
-> [![The English Speech Contest Certificate issued by the Sichuan Institute of Education Sciences](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/5115/202301111241365.jpg)](http://cert.ezcsoft.com/CertView.html?CertSN=AD0FBCB1-B976-468A-AFBF-1FB9F7810DC4&OrganSN=237CA873-8BB2-453E-900A-87BF324D5F75&XType=1)
+<!--
+[![YanDao0313's GitHub stats](https://github-readme-stats.vercel.app/api?username=YanDao0313)](https://yandao.is-a.dev/)
+![img](https://api.githubtrends.io/user/svg/YanDao0313/repos?time_range=one_year&include_private=True&group=private&theme=classic)-->
 
 ## 🌟 个人精选项目
 
