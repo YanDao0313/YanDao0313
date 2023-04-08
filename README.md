@@ -5,8 +5,6 @@
 - 🌱 I’m a middle school student in [PRC](https://www.gov.cn) | 15岁，逝学生，更逝快乐初三牲
 - 📫 How to reach me: [Click Here to Email Me](mailto:yandao0313@gmail.com) | 可发邮件[到此](mailto:yandao0313@gmail.com)来联系我~
 
-> emm...图床寄了...
-
 <!--![img](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/5115/202301120936689.png)-->
 
 <!--
