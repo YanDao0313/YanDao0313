@@ -7,7 +7,7 @@
 - 🌱 I’m a middle school student in [PRC](https://www.gov.cn) | 15岁，逝学生，更逝快乐初三牲
 - 📫 How to reach me: [Click Here to Email Me](mailto:github@ydlk.cc) | 可发邮件[到此](mailto:github@ydlk.cc)来联系我~
 
-> I've got a new bot user! Check it at [@ShirokoBOT](https://github.com/ShirokoBOT/)
+> 
 
 <!--![img](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/5115/202301120936689.png)-->
 
