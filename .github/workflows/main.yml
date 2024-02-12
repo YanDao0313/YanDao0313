@@ -9,7 +9,10 @@ jobs:
   build:
     name: Update Svg
     runs-on: ubuntu-latest
+
     steps:
+      - uses: actions/checkout@v2.1.0
+      
       # Snake Animation
       - name: Generate Snake
         uses: Platane/snk@v3
