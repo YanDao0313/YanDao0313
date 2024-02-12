@@ -44,7 +44,7 @@ jobs:
           git config --global user.email ${{ secrets.USER_EMAIL }}
           git config --global user.name ${{ secrets.USER_NAME }}
           git add .
-          git commit -m "links(json): update YML and generate JSON successfully" -a
+          git commit -m "generate `SVG` files and push successfully" -a
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
