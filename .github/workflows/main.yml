@@ -7,11 +7,12 @@ on:
 
 jobs:
   build:
-    name: Jobs to update datas
+    name: Update Svg
     runs-on: ubuntu-latest
     steps:
       # Snake Animation
-      - uses: Platane/snk@v3
+      - name: Generate Snake
+        uses: Platane/snk@v3
         with:
         # github user name to read the contribution graph from (**required**)
         # using action context var `github.repository_owner` or specified user
@@ -30,3 +31,18 @@ jobs:
             static/github-snake.svg
             static/github-snake-dark.svg?palette=github-dark
             static/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+      
+      # Commit json into repo
+      - name: Commit
+        env:
+          $USER_EMAIL: ${{ secrets.USER_EMAIL }}
+          $USER_NAME: ${{ secrets.USER_NAME }}
+        run: |
+          git config --global user.email ${{ secrets.USER_EMAIL }}
+          git config --global user.name ${{ secrets.USER_NAME }}
+          git add .
+          git commit -m "links(json): update YML and generate JSON successfully" -a
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
