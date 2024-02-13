@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m @YanDao0313 | (｡･∀･)ﾉﾞ 氦，我是颜导~  
 - 👀 I’m finding something interesting | 探索中，成分复杂...  
-- 🌱 I’m a middle school student in [PRC](https://www.gov.cn) | 15岁，逝学生  
+- 🌱 I’m a middle school student in [PRC](https://www.gov.cn) | 16岁，逝学生  
 - 📫 How to reach me: [Click Here to Email Me](mailto:github@ydlk.cc) | 可发邮件[到此](mailto:github@ydlk.cc)来联系我~  
 
 > 
